@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+@Getter
+public class SangwooKim {
+	private String name = "SANG_WOO_KIM";
+
+	private String github = "https://github.com/troysw";
+
+	private String blog = "https://velog.io/@ksw_dev";
+	
+	@Email
+	private String email = "yword1@naver.com";
+
+	@Size(max = 11)
+	@Pattern(regexp = "[0-9]*")
+	private String phone = "010-5061-1404";
+}
+```
