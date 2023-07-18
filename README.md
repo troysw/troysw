@@ -28,7 +28,6 @@ public class SangwooKim {
 	private String email = "yword1@naver.com";
 
 	@Size(max = 11)
-	@Pattern(regexp = "[0-9]*")
 	private String phone = "010-5061-1404";
 }
 ```
