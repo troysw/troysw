@@ -26,8 +26,5 @@ public class SangwooKim {
 	
 	@Email
 	private String email = "yword1@naver.com";
-
-	@Size(max = 11)
-	private String phone = "010-5061-1404";
 }
 ```
