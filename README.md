@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 ```
 @Getter
 public class SangwooKim {
-	private String name = "SANG_WOO_KIM";
-
-	private String github = "https://github.com/troysw";
-
+	private String name = "SANG_WOO_KIM"
 	private String blog = "https://velog.io/@ksw_dev";
-	
 	@Email
 	private String email = "yword1@naver.com";
 }
