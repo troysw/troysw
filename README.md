@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
-@Getter
-public class SangwooKim {
-	private String name = "SANG_WOO_KIM"
-	private String blog = "https://velog.io/@ksw_dev";
+	name = "SANG_WOO_KIM"
+	blog = "https://velog.io/@ksw_dev";
 	@Email
-	private String email = "yword1@naver.com";
-}
-```
+	email = "yword1@naver.com";
+
+ THANKYOU😄
