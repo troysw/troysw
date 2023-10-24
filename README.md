@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-	name = "SANG_WOO_KIM"
-	blog = "https://velog.io/@ksw_dev";
-	@Email
-	email = "yword1@naver.com";
-
- THANKYOU😄
+	name => SANG_WOO_KIM
+	blog => https://velog.io/@ksw_dev
+	email => yword1@naver.com
+ 
+ THANKYOU TO WATCH(vue아님)😄
